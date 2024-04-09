@@ -12,7 +12,9 @@ dependencies:
  http: ^1.2.1
  intl: ^0.17.0
  json_annotation: ^4.0.0
- oauth1: ^2.0.0
+ oauth1:
+   git:
+     url: https://github.com/TheHCJ/dart-oauth1.git
 
 dev_dependencies:
   build_runner: ^1.11.5
