@@ -10,7 +10,7 @@ environment:
 
 dependencies:
  http: ^1.2.1
- intl: ^0.17.0
+ intl: ^0.18.1
  json_annotation: ^4.0.0
  oauth1:
    git:
